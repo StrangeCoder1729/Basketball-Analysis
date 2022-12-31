@@ -6,4 +6,6 @@
 
 --> Dataset was provided by the Mentor (the dataset is publicly available)
 
---> Mentor : Kirill Eremenko
+Mentor : Kirill Eremenko, Ligency I Team
+
+Udemy Course : R Programming A-Z™: R For Data Science With Real Exercises!
